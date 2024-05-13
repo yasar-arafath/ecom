@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942138501379",
+    "project_id": "arafatecom-22e76",
+    "storage_bucket": "arafatecom-22e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942138501379:android:feb540546a2a89ffe62136",
+        "android_client_info": {
+          "package_name": "com.app.shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXVT-D027fbgx7PQb9axe0TMDQA4D_DTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
